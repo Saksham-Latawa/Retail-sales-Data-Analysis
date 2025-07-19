@@ -70,27 +70,4 @@ The dataset contains records of retail transactions including:
 - Male customers contribute slightly more to total revenue
 - Outliers in quantity and price were influencing mean values
 
----
 
-## 📌 Next Steps
-
-- Build a dashboard using Power BI or Tableau  
-- Apply clustering for customer segmentation  
-- Forecast future sales using time series models  
-
----
-
-## 📎 Screenshots
-
-Add screenshots of plots or dashboards here.
-
----
-
-## 📬 Contact
-
-If you have any suggestions or feedback, feel free to reach out:
-
-**Saksham Latawa**  
-Data Science Student | Machine Learning Engineer  
-📧 [your-email@example.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
